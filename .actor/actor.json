@@ -1,0 +1,7 @@
+{
+  "actorSpecification": 1,
+  "version": "0.0",
+  "name": "amazon-scraper",
+  "buildTag": "latest",
+  "environmentVariables": {}
+}
